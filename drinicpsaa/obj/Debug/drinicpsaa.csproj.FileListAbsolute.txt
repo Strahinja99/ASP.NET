@@ -1,0 +1,459 @@
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\drinicpsaa.dll.config
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\drinicpsaa.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\drinicpsaa.pdb
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\csc.exe
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\csc.exe.config
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\csc.rsp
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\csi.exe
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\csi.exe.config
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\csi.rsp
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.AppContext.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Console.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.Compression.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Claims.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.ValueTuple.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\vbc.exe
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\vbc.exe.config
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\vbc.rsp
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\VBCSCompiler.exe
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\Antlr3.Runtime.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\Newtonsoft.Json.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.Helpers.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.Mvc.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.Optimization.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.Razor.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.Razor.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\WebGrease.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.Helpers.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.Mvc.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.Optimization.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.Razor.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.Razor.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\Newtonsoft.Json.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\Antlr3.Runtime.pdb
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.csprojAssemblyReference.cache
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.csproj.CoreCompileInputs.cache
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.csproj.CopyComplete
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.dll
+C:\Users\Strahinja\source\repos\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.pdb
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\drinicpsaa.dll.config
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\drinicpsaa.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\drinicpsaa.pdb
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\csc.exe
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\csc.exe.config
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\csc.rsp
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\csi.exe
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\csi.exe.config
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\csi.rsp
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.AppContext.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Console.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.Compression.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.IO.Pipes.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Claims.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.ValueTuple.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\vbc.exe
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\vbc.exe.config
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\vbc.rsp
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\VBCSCompiler.exe
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\Antlr3.Runtime.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\Newtonsoft.Json.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.Helpers.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.Mvc.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.Optimization.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.Razor.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.Deployment.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.Razor.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\WebGrease.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.Helpers.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.Mvc.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.Optimization.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.Razor.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.Deployment.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\System.Web.WebPages.Razor.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\Newtonsoft.Json.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\Antlr3.Runtime.pdb
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.csprojAssemblyReference.cache
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.csproj.CopyComplete
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.dll
+C:\Users\verad\Desktop\drinicpsaa\drinicpsaa\obj\Debug\drinicpsaa.pdb
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\drinicpsaa.dll.config
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\drinicpsaa.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\drinicpsaa.pdb
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\csc.exe
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\csc.exe.config
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\csc.rsp
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\csi.exe
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\csi.exe.config
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\csi.rsp
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.AppContext.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Console.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.IO.Compression.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Security.Claims.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.ValueTuple.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\vbc.exe
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\vbc.exe.config
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\vbc.rsp
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\VBCSCompiler.exe
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\Antlr3.Runtime.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\Newtonsoft.Json.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.Helpers.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.Mvc.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.Optimization.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.Razor.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.WebPages.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.WebPages.Razor.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\WebGrease.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.Helpers.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.Mvc.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.Optimization.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.Razor.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.WebPages.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\System.Web.WebPages.Razor.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\Newtonsoft.Json.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\Antlr3.Runtime.pdb
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\obj\Debug\drinicpsaa.csprojAssemblyReference.cache
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\obj\Debug\drinicpsaa.csproj.CopyComplete
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\obj\Debug\drinicpsaa.dll
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\obj\Debug\drinicpsaa.pdb
+C:\Users\Strahinja\Desktop\isp\drinicpsaa\obj\Debug\drinicpsaa.csproj.CoreCompileInputs.cache
+D:\Programiranje\isp\drinicpsaa\bin\drinicpsaa.dll.config
+D:\Programiranje\isp\drinicpsaa\bin\drinicpsaa.dll
+D:\Programiranje\isp\drinicpsaa\bin\drinicpsaa.pdb
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\csc.exe
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\csc.exe.config
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\csc.rsp
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\csi.exe
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\csi.exe.config
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\csi.rsp
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.AppContext.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Collections.Immutable.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Console.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.IO.Compression.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.IO.FileSystem.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.IO.Pipes.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Security.AccessControl.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Security.Claims.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.ValueTuple.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Xml.XPath.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\vbc.exe
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\vbc.exe.config
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\vbc.rsp
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\VBCSCompiler.exe
+D:\Programiranje\isp\drinicpsaa\bin\roslyn\VBCSCompiler.exe.config
+D:\Programiranje\isp\drinicpsaa\bin\Antlr3.Runtime.dll
+D:\Programiranje\isp\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programiranje\isp\drinicpsaa\bin\Microsoft.Web.Infrastructure.dll
+D:\Programiranje\isp\drinicpsaa\bin\Newtonsoft.Json.dll
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.Helpers.dll
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.Mvc.dll
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.Optimization.dll
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.Razor.dll
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.WebPages.Deployment.dll
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.WebPages.dll
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.WebPages.Razor.dll
+D:\Programiranje\isp\drinicpsaa\bin\WebGrease.dll
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.Helpers.xml
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.Mvc.xml
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.Optimization.xml
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.Razor.xml
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.WebPages.xml
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.WebPages.Deployment.xml
+D:\Programiranje\isp\drinicpsaa\bin\System.Web.WebPages.Razor.xml
+D:\Programiranje\isp\drinicpsaa\bin\Newtonsoft.Json.xml
+D:\Programiranje\isp\drinicpsaa\bin\Antlr3.Runtime.pdb
+D:\Programiranje\isp\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programiranje\isp\drinicpsaa\obj\Debug\drinicpsaa.csprojAssemblyReference.cache
+D:\Programiranje\isp\drinicpsaa\obj\Debug\drinicpsaa.csproj.CoreCompileInputs.cache
+D:\Programiranje\isp\drinicpsaa\obj\Debug\drinicpsaa.csproj.CopyComplete
+D:\Programiranje\isp\drinicpsaa\obj\Debug\drinicpsaa.dll
+D:\Programiranje\isp\drinicpsaa\obj\Debug\drinicpsaa.pdb
+D:\Faks\isp\drinicpsaa\bin\drinicpsaa.dll.config
+D:\Faks\isp\drinicpsaa\bin\drinicpsaa.dll
+D:\Faks\isp\drinicpsaa\bin\drinicpsaa.pdb
+D:\Faks\isp\drinicpsaa\bin\roslyn\csc.exe
+D:\Faks\isp\drinicpsaa\bin\roslyn\csc.exe.config
+D:\Faks\isp\drinicpsaa\bin\roslyn\csc.rsp
+D:\Faks\isp\drinicpsaa\bin\roslyn\csi.exe
+D:\Faks\isp\drinicpsaa\bin\roslyn\csi.exe.config
+D:\Faks\isp\drinicpsaa\bin\roslyn\csi.rsp
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Faks\isp\drinicpsaa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.AppContext.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Collections.Immutable.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Console.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.IO.Compression.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.IO.FileSystem.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.IO.Pipes.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Security.AccessControl.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Security.Claims.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.ValueTuple.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Xml.XPath.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faks\isp\drinicpsaa\bin\roslyn\vbc.exe
+D:\Faks\isp\drinicpsaa\bin\roslyn\vbc.exe.config
+D:\Faks\isp\drinicpsaa\bin\roslyn\vbc.rsp
+D:\Faks\isp\drinicpsaa\bin\roslyn\VBCSCompiler.exe
+D:\Faks\isp\drinicpsaa\bin\roslyn\VBCSCompiler.exe.config
+D:\Faks\isp\drinicpsaa\bin\Antlr3.Runtime.dll
+D:\Faks\isp\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faks\isp\drinicpsaa\bin\Microsoft.Web.Infrastructure.dll
+D:\Faks\isp\drinicpsaa\bin\Newtonsoft.Json.dll
+D:\Faks\isp\drinicpsaa\bin\System.Web.Helpers.dll
+D:\Faks\isp\drinicpsaa\bin\System.Web.Mvc.dll
+D:\Faks\isp\drinicpsaa\bin\System.Web.Optimization.dll
+D:\Faks\isp\drinicpsaa\bin\System.Web.Razor.dll
+D:\Faks\isp\drinicpsaa\bin\System.Web.WebPages.Deployment.dll
+D:\Faks\isp\drinicpsaa\bin\System.Web.WebPages.dll
+D:\Faks\isp\drinicpsaa\bin\System.Web.WebPages.Razor.dll
+D:\Faks\isp\drinicpsaa\bin\WebGrease.dll
+D:\Faks\isp\drinicpsaa\bin\System.Web.Helpers.xml
+D:\Faks\isp\drinicpsaa\bin\System.Web.Mvc.xml
+D:\Faks\isp\drinicpsaa\bin\System.Web.Optimization.xml
+D:\Faks\isp\drinicpsaa\bin\System.Web.Razor.xml
+D:\Faks\isp\drinicpsaa\bin\System.Web.WebPages.xml
+D:\Faks\isp\drinicpsaa\bin\System.Web.WebPages.Deployment.xml
+D:\Faks\isp\drinicpsaa\bin\System.Web.WebPages.Razor.xml
+D:\Faks\isp\drinicpsaa\bin\Newtonsoft.Json.xml
+D:\Faks\isp\drinicpsaa\bin\Antlr3.Runtime.pdb
+D:\Faks\isp\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faks\isp\drinicpsaa\obj\Debug\drinicpsaa.csprojAssemblyReference.cache
+D:\Faks\isp\drinicpsaa\obj\Debug\drinicpsaa.csproj.CoreCompileInputs.cache
+D:\Faks\isp\drinicpsaa\obj\Debug\drinicpsaa.csproj.CopyComplete
+D:\Faks\isp\drinicpsaa\obj\Debug\drinicpsaa.dll
+D:\Faks\isp\drinicpsaa\obj\Debug\drinicpsaa.pdb
+D:\Faks\isp - Copy\drinicpsaa\bin\drinicpsaa.dll.config
+D:\Faks\isp - Copy\drinicpsaa\bin\drinicpsaa.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\drinicpsaa.pdb
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\csc.exe
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\csc.exe.config
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\csc.rsp
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\csi.exe
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\csi.exe.config
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\csi.rsp
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.AppContext.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Collections.Immutable.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Console.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.IO.Compression.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.IO.FileSystem.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.IO.Pipes.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Security.AccessControl.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Security.Claims.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.ValueTuple.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Xml.XPath.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\vbc.exe
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\vbc.exe.config
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\vbc.rsp
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\VBCSCompiler.exe
+D:\Faks\isp - Copy\drinicpsaa\bin\roslyn\VBCSCompiler.exe.config
+D:\Faks\isp - Copy\drinicpsaa\bin\Antlr3.Runtime.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\EntityFramework.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\EntityFramework.SqlServer.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\Microsoft.Web.Infrastructure.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\Newtonsoft.Json.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.Helpers.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.Mvc.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.Optimization.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.Razor.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.WebPages.Deployment.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.WebPages.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.WebPages.Razor.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\WebGrease.dll
+D:\Faks\isp - Copy\drinicpsaa\bin\EntityFramework.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\EntityFramework.SqlServer.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.Helpers.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.Mvc.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.Optimization.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.Razor.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.WebPages.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.WebPages.Deployment.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\System.Web.WebPages.Razor.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\Newtonsoft.Json.xml
+D:\Faks\isp - Copy\drinicpsaa\bin\Antlr3.Runtime.pdb
+D:\Faks\isp - Copy\drinicpsaa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faks\isp - Copy\drinicpsaa\obj\Debug\drinicpsaa.csprojAssemblyReference.cache
+D:\Faks\isp - Copy\drinicpsaa\obj\Debug\drinicpsaa.csproj.CoreCompileInputs.cache
+D:\Faks\isp - Copy\drinicpsaa\obj\Debug\drinicpsaa.csproj.CopyComplete
+D:\Faks\isp - Copy\drinicpsaa\obj\Debug\drinicpsaa.dll
+D:\Faks\isp - Copy\drinicpsaa\obj\Debug\drinicpsaa.pdb

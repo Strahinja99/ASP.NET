@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="predmetiiModelStoreContainer" CdmEntityContainer="predmetiiEntities">
+    <EntitySetMapping Name="Tables">
+      <EntityTypeMapping TypeName="predmetiiModel.Table">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="predmet" ColumnName="predmet" />
+          <ScalarProperty Name="profesor" ColumnName="profesor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<drinicpsaa.Models.Table>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.predmet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.profesor)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.predmet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.profesor)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.sifra }) |
+            @Html.ActionLink("Details", "Details", new { id=item.sifra }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.sifra })
+        </td>
+    </tr>
+}
+
+</table>

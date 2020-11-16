@@ -1,0 +1,36 @@
+﻿@model drinicpsaa.Models.svidjanja
+
+@{
+    Layout = "~/Views/Shared/_TemplejtLayout.cshtml";
+}
+
+
+<div>
+
+
+    <table border="1">
+        <caption>Подаци о кандидату</caption>
+        <tr>
+            <th>
+                Име и
+                презиме
+            </th>
+            <th>Емаил</th>
+            <th>Мобилни</th>
+            <th>Комнетар</th>
+        </tr>
+        <tr>
+            <td>@Model.Ime</td>
+            <td>@Model.Email</td>
+            <td>@Model.Brojtelefona</td>
+            <td>@Model.komentar</td>
+        </tr>
+    </table>
+    @{ 
+        string src = "../Content/slike/slika.jpg";
+    }
+    
+    
+    @drinicpsaa.helperi.helperi.test(@src);
+
+</div>

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>"@ViewBag.Title"</title>
+<meta name="keywords" content="@ViewBag.Keywords" />
+<meta name="description" content="@ViewBag.Description" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="~/Content/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="~/Content/fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="shortcut icon" type="image/x-icon" href="~/favicon-32x32.png" />
+</head>
+<body>
+    <div id="header-wrapper">
+        <div id="header" class="container">
+            <div id="logo">
+                <span class="icon icon-fire"></span>
+                <h1><a href="#">Dobrodosli na moj sajt!</a></h1>
+                <span>Dizajniran od strane  <a href="https://www.facebook.com/strahinjaad" rel="nofollow">Strahinja Drinic</a></span>
+            </div>
+            @{
+                Html.RenderPartial("_Nav");
+            }
+        </div>
+    </div>
+
+    @RenderBody()
+    @RenderSection("scripts", required: false)
+    <div id="copyright">
+        @RenderSection("Futer", false);
+        <p>&copy; Sva prava zadrzana.</p>
+    </div>
+</body>
+</html>

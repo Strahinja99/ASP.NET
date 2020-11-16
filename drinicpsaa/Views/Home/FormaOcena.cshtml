@@ -1,0 +1,37 @@
+﻿
+@model drinicpsaa.Models.svidjanja
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Oceni me</title>
+    
+
+</head>
+<body>
+    <div>
+
+        <h1>Napisi svoje misljenje</h1>
+        @Styles.Render("~/content/forma.css")
+        @using (Html.BeginForm("FormaOcena", "Home", FormMethod.Post, new { @class = "stilForme" }))
+
+
+        {<fieldset>
+        <legend>Popuni polja</legend>
+        <p>Ime i Prezime: @Html.TextBoxFor(x => x.Ime) </p>
+        <p>Email: @Html.TextBoxFor(x => x.Email)</p>
+        <p>Telefon: @Html.TextBoxFor(x => x.Brojtelefona)</p>
+        <p>
+
+            @Html.TextAreaFor(x => x.komentar)
+        </p>
+
+        <input type="submit" value="Posalji" />
+
+    </fieldset>}
+
+    </div>
+</body>
+</html>

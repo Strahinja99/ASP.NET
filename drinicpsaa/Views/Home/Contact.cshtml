@@ -1,0 +1,35 @@
+﻿
+<div id="wrapper2">
+    <div id="newsletter" class="container">
+        <div class="title">
+            <h2>@ViewBag.Title</h2>
+            <span class="byline">@ViewBag.Message</span>
+            <span class="byline">@ViewBag.kita</span>
+        </div>
+        <div class="content">
+            <form method="post" action="#">
+                <div class="row half">
+                    <div class="6u">
+                        <input type="text" class="text" name="name" placeholder="Ime" />
+                    </div>
+                    <div class="6u">
+                        <input type="text" class="text" name="email" placeholder="Email" />
+                    </div>
+                </div>
+                <div class="row half">
+                    <div class="12u">
+                        <textarea name="message" placeholder="Vasa poruka"></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="12u"> <a href="#" class="button submit">Posalji poruku</a> </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Futer{
+
+    <p>&copy; Strahinja Drinic | Dizajniran od strane <a href="https://www.facebook.com/strahinjaad" rel="nofollow">LINK</a>.</p>
+}

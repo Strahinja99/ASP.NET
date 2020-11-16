@@ -1,0 +1,34 @@
+﻿@model drinicpsaa.Models.Table
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Table</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.predmet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.predmet)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.profesor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.profesor)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.sifra }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

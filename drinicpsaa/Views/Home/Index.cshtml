@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Pocetna strana";
+}
+
+@{ 
+    ViewBag.Keywords = "Moji Projekti. Ovde se nalaze cetiri projekta u raznim programskim jezicima ";
+    ViewBag.Description = "Dobrodosli na moj sajt. Dizajniran od strane Strahinja Drinic.";
+}
+
+<div id="wrapper3">
+    <div id="portfolio" class="container">
+        <div class="title">
+            <h2>Moji Projekti</h2>
+            <span class="byline">Ovde se nalaze cetiri projekta u raznim programskim jezicima </span>
+        </div>
+        <div class="column1">
+            <div class="box">
+                <a href="#"><img src="~/Content/images/scr01.jpg" alt="" class="image image-full" /></a>
+                <h3>PHP</h3>
+                <p>Web sajt (pc shop) u php programskom jeziku koji sadrzi bazu podataka.</p>
+                <a href="http://sdpcshop.rf.gd/" class="button button-small">Saznaj vise</a>
+            </div>
+        </div>
+        <div class="column2">
+            <div class="box">
+                <a href="#"><img src="~/Content/images/scr02.jpg" alt="" class="image image-full" /></a>
+                <h3>HTML/CSS</h3>
+                <p>Web sajt (Pc shop) kreiran pomocu html i css-a.</p>
+                <a href="https://github.com/Strahinja99/Programiranje/tree/master/sajt" class="button button-small">Saznaj vise</a>
+            </div>
+        </div>
+        <div class="column3">
+            <div class="box">
+                <a href="#"><img src="~/Content/images/scr03.jpg" alt="" class="image image-full" /></a>
+                <h3>C# Console App</h3>
+                <p>Konzolna aplikacija koja ispituje parnost i neparnost brojeva.</p>
+                <a href="https://github.com/Strahinja99/Programiranje/tree/master/ispitivanje%20parnosti%20i%20neparnosti" class="button button-small">Saznaj vise</a>
+            </div>
+        </div>
+        <div class="column4">
+            <div class="box">
+                <a href="#"><img src="~/Content/images/scr04.jpg" alt="" class="image image-full" /></a>
+                <h3>C#</h3>
+                <p>Jos jedna konzolna aplikacija koja u sebi sadrzi klase i metode.</p>
+                <a href="https://github.com/Strahinja99/Programiranje/tree/master/Klase%20Diplome.lekari/ConsoleApp1" class="button button-small">Saznaj vise</a>
+            </div>
+        </div>
+        @Html.ActionLink("Da li ti se svidjaju moji radovi?", "FormaOcena")
+    </div>
+</div>
+
